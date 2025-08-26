@@ -90,7 +90,9 @@ This repository is my **structured AI/ML learning roadmap** for 2025–2026. It 
 | Date       | Day  | Task / Topic Completed | Notes / Observations |
 |------------|------|-------------------------|-----------------------|
 | 2025-08-25 | Day 1 | Repo setup, DSA: Two Sum, NumPy basics (1D/2D arrays, operations, indexing & slicing) | Initial setup; pushed DSA & NumPy refresher to GitHub |
-| 2025-08-26 | Day 2 | DSA: Best Time to Buy & Sell Stock; NumPy aggregations & boolean/fancy indexing | Practiced stock problem; refreshed NumPy aggregations |
+| 2025-08-26 | Day 2 | • Continued refining README.
+• DSA practice: Best Time to Buy and Sell Stock problem (Python)
+• Refreshed NumPy, Pandas, Matplotlib, and Seaborn basics|
 
 *(Add new rows daily — always on top of the table for latest updates.)*
 
