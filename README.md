@@ -8,42 +8,24 @@
 
 ## Table of Contents
 1. [About](#about)  
-2. [DSA Practice](#dsa-practice)  
-3. [NumPy / Pandas / ML Tool Practice](#numpy--pandas--ml-tool-practice)  
-4. [Kaggle Notebooks](#kaggle-notebooks)  
-5. [Deployment / MLOps](#deployment--mlops)  
-6. [Certifications](#certifications)  
-7. [Open Source Contributions](#open-source-contributions)  
-8. [Future Work](#future-work)  
-9. [Daily Updates / Task Tracker](#daily-updates--task-tracker)  
-10. [Contact](#contact)  
+2. [Kaggle Notebooks](#kaggle-notebooks)  
+3. [Deployment / MLOps](#deployment--mlops)  
+4. [Certifications](#certifications)  
+5. [Open Source Contributions](#open-source-contributions)  
+6. [Future Work](#future-work)  
+7. [Daily Updates / Task Tracker](#daily-updates--task-tracker)  
+8. [Contact](#contact)  
 
 ---
 
 ## About
 This repository is my **structured AI/ML learning roadmap** for 2025–2026. It covers:
-- **Data Structures & Algorithms (DSA):** Solved in Python, organized by topic.
+- **Data Structures & Algorithms (DSA):** Solved in Python, progress tracked daily.
 - **AI/ML Tool Practice:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn basics.
 - **Kaggle Competitions:** Exploratory notebooks and competition practice.
 - **Deployment & MLOps:** Model deployment (Streamlit/Flask), containerization (Docker), CI/CD basics.
 - **Open Source Contributions:** Beginner-friendly PRs and fixes in ML/DSA repositories.
 - **Certifications:** Industry-recognized certifications in AI/ML.
-
----
-
-## DSA Practice
-- **Goal:** Solve at least 150–200 problems by Jan 2026.  
-- **Topics covered (so far):**
-  - Day 1: Two Sum → Hashmap solution  
-  - Day 2: Best Time to Buy & Sell Stock  
-
----
-
-## NumPy / Pandas / ML Tool Practice
-- **Goal:** Build strong foundations in Python libraries for ML.  
-- **Topics covered (so far):**
-  - Day 1: NumPy basics (1D/2D arrays, operations, indexing & slicing)  
-- **Upcoming:** Pandas DataFrames, aggregation, Matplotlib/Seaborn for visualization  
 
 ---
 
@@ -95,10 +77,11 @@ This repository is my **structured AI/ML learning roadmap** for 2025–2026. It 
 | 2   | Aug 26, 2025 | • Continued refining README. <br> • **DSA practice:** Best Time to Buy and Sell Stock problem (Python). <br> • **Refreshed NumPy, Pandas, Matplotlib, and Seaborn basics.** |
 | 1   | Aug 25, 2025 | • Repository initialized. Setup README structure, added sections for goals, tools, and milestones. <br> • **DSA practice:** Two Sum problem (Python). |
 
-*(Added new rows daily — always on top of the table for latest updates.)*
+*(New rows added daily — newest first.)*
 
 ---
 
 ## Contact
 - GitHub: [https://github.com/AshtamiBiju](https://github.com/AshtamiBiju)  
 - LinkedIn: [https://www.linkedin.com/in/ashtami-b-3a9042323](https://www.linkedin.com/in/ashtami-b-3a9042323)  
+9042323)  
