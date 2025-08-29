@@ -67,13 +67,13 @@ This repository is my **structured AI/ML learning roadmap** for 2025–2026. It 
 
 ---
 
-## Daily Updates / Task Tracker  
-
-# 📅 Daily Progress Tracker  
+## Daily Updates / Task Tracker   
 
 | Day | Date       | Work Done |
 |-----|------------|-----------|
-| 3   | Aug 27, 2025 | • **AI/ML:** Implemented a Linear Regression model using scikit-learn (with MSE). <br> • **DSA:** Solved Palindrome Number problem in Python. |
+| 5   | Aug 29, 2025 | • **DSA:** Solved Valid Anagram problem (Python). <br> • **AI/ML:** Implemented Logistic Regression on a dummy binary classification dataset using scikit-learn. |
+| 4   | Aug 28, 2025 | • **DSA:** Solved Palindrome Number problem (Python). <br> • **AI/ML:** Practiced train-test split and Linear Regression on a small dummy dataset. |
+| 3   | Aug 27, 2025 | • **AI/ML:** Implemented a Linear Regression model using scikit-learn (with MSE and R²). <br> • **DSA:** Solved Palindrome Number problem in Python. |
 | 2   | Aug 26, 2025 | • Continued refining README. <br> • **DSA practice:** Best Time to Buy and Sell Stock problem (Python). <br> • **Refreshed NumPy, Pandas, Matplotlib, and Seaborn basics.** |
 | 1   | Aug 25, 2025 | • Repository initialized. Setup README structure, added sections for goals, tools, and milestones. <br> • **DSA practice:** Two Sum problem (Python). |
 
