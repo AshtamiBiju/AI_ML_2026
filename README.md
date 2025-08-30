@@ -71,6 +71,7 @@ This repository is my **structured AI/ML learning roadmap** for 2025–2026. It 
 
 | Day | Date       | Work Done |
 |-----|------------|-----------|
+| 6   | Aug 30, 2025 | • **DSA:** Solved Search Insert Position problem (Python). <br> • **DSA:** Solved Find the Index of the First Occurrence in a String problem (Python). <br> • **AI/ML (SQL):** Practiced SQL basics — SELECT, WHERE, ORDER BY, DISTINCT, LIMIT. |
 | 5   | Aug 29, 2025 | • **DSA:** Solved Valid Anagram problem (Python). <br> • **DSA:** Solved Reverse String problem (Python). <br> • **DSA:** Solved Remove Element problem (Python). <br> • **AI/ML:** Implemented Logistic Regression on a dummy binary classification dataset using scikit-learn. |
 | 4   | Aug 28, 2025 | • **DSA:** Solved Remove Duplicates from Sorted Array problem (Python). <br> • **AI/ML:** Practiced train-test split and Linear Regression on a small dummy dataset. |
 | 3   | Aug 27, 2025 | • **DSA:** Solved Palindrome Number problem (Python). <br> • **AI/ML:** Implemented a Linear Regression model using scikit-learn (with MSE and R²). |
