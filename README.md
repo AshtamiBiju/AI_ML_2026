@@ -71,12 +71,12 @@ This repository is my **structured AI/ML learning roadmap** for 2025–2026. It 
 
 | Day | Date       | Work Done |
 |-----|------------|-----------|
-| 6   | Aug 30, 2025 | • **DSA:** Solved Search Insert Position problem (Python). <br> • **DSA:** Solved Find the Index of the First Occurrence in a String problem (Python). <br> • **AI/ML (SQL):** Practiced SQL basics — SELECT, WHERE, ORDER BY, DISTINCT, LIMIT. |
-| 5   | Aug 29, 2025 | • **DSA:** Solved Valid Anagram problem (Python). <br> • **DSA:** Solved Reverse String problem (Python). <br> • **DSA:** Solved Remove Element problem (Python). <br> • **AI/ML:** Implemented Logistic Regression on a dummy binary classification dataset using scikit-learn. |
-| 4   | Aug 28, 2025 | • **DSA:** Solved Remove Duplicates from Sorted Array problem (Python). <br> • **AI/ML:** Practiced train-test split and Linear Regression on a small dummy dataset. |
-| 3   | Aug 27, 2025 | • **DSA:** Solved Palindrome Number problem (Python). <br> • **AI/ML:** Implemented a Linear Regression model using scikit-learn (with MSE and R²). |
-| 2   | Aug 26, 2025 | • Continued refining README. <br> • **DSA practice:** Best Time to Buy and Sell Stock problem (Python). <br> • **Refreshed NumPy, Pandas, Matplotlib, and Seaborn basics.** |
-| 1   | Aug 25, 2025 | • Repository initialized. Setup README structure, added sections for goals, tools, and milestones. <br> • **DSA practice:** Two Sum problem (Python). |
+| 6   | Sep 3, 2025 | • **DSA:** Solved Search Insert Position problem (Python). <br> • **DSA:** Solved Find the Index of the First Occurrence in a String problem (Python). <br> • **AI/ML:** Learned SQL basics (SELECT, WHERE, ORDER BY, LIMIT) and practiced sample queries. |
+| 5   | Sep 2, 2025 | • **DSA:** Solved Valid Anagram problem (Python). <br> • **DSA:** Solved Reverse String problem (Python). <br> • **DSA:** Solved Remove Element problem (Python). <br> • **AI/ML:** Implemented Logistic Regression on a dummy binary classification dataset using scikit-learn. |
+| 4   | Sep 1, 2025 | • **DSA:** Solved Remove Duplicates from Sorted Array problem (Python). <br> • **AI/ML:** Practiced train-test split and Linear Regression on a small dummy dataset. |
+| 3   | Aug 31, 2025 | • **DSA:** Solved Palindrome Number problem (Python). <br> • **AI/ML:** Implemented a Linear Regression model using scikit-learn (with MSE and R²). |
+| 2   | Aug 30, 2025 | • Continued refining README. <br> • **DSA practice:** Best Time to Buy and Sell Stock problem (Python). <br> • **Refreshed NumPy, Pandas, Matplotlib, and Seaborn basics.** |
+| 1   | Aug 29, 2025 | • Repository initialized. Setup README structure, added sections for goals, tools, and milestones. <br> • **DSA practice:** Two Sum problem (Python). |
 
 *(New rows added daily — newest first.)*
 
